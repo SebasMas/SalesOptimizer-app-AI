@@ -43,3 +43,7 @@
 ## Levantamiento de Requerimientos
 
 En el [siguiente enlace](https://wise-trollius-62b.notion.site/Levantamiento-de-Requerimientos-45abd2ff47de4217b4b6ec9f5855feec?pvs=4) podrá encontrar la especificación de los requerimientos del proyecto, junto con sus respectivos diagramas de actividades, de secuencia y de casos de uso.
+
+## Diagrama de Clases
+
+![Diagrama de Clases](https://i.ibb.co/RHMZZLG/diagrama-de-clases.png)
