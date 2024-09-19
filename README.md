@@ -50,4 +50,4 @@ En el [siguiente enlace](https://wise-trollius-62b.notion.site/Levantamiento-de-
 
 ## Diagrama de Componentes
 
-![Diagrama de Componentes](https://i.ibb.co/1s3DxjT/diagrama-componentes.png)
+![Diagrama de Componentes](https://i.ibb.co/hyJxsfc/diagrama-componentes.png)
