@@ -47,3 +47,7 @@ En el [siguiente enlace](https://wise-trollius-62b.notion.site/Levantamiento-de-
 ## Diagrama de Clases
 
 ![Diagrama de Clases](https://i.ibb.co/RHMZZLG/diagrama-de-clases.png)
+
+## Diagrama de Componentes
+
+![Diagrama de Componentes](https://i.ibb.co/1s3DxjT/diagrama-componentes.png)
