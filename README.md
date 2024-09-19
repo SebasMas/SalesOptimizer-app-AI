@@ -39,3 +39,7 @@
         - Automatizar el envío de recomendaciones personalizadas a los clientes a través de múltiples canales (correo electrónico, SMS, notificaciones push).
         - Integrar un sistema de retroalimentación que ajuste automáticamente las estrategias de ventas cruzadas basándose en las respuestas de los clientes y las tendencias del mercado.
         - Crear un dashboard interactivo y avanzado que permita a los gerentes de ventas monitorizar el rendimiento de las estrategias de ventas cruzadas y tomar decisiones informadas en tiempo real.
+
+## Levantamiento de Requerimientos
+
+En el [siguiente enlace](https://wise-trollius-62b.notion.site/Levantamiento-de-Requerimientos-45abd2ff47de4217b4b6ec9f5855feec?pvs=4) podrá encontrar la especificición de los requerimientos del proyecto, junto con sus respectivos diagramas de actividades, de secuencia y de casos de uso.
